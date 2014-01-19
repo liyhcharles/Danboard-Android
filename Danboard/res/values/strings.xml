@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Danboard</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_display_image">Danbooru Posts</string>
+    <string name="title_activity_view_post">Danbooru Image</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="load_post">Loading</string>
+    <string name="load_message">Loading image</string>
+    <string name="load_message_posts">Fetching posts</string>
+    <string name="search_hint">Search Tags</string>
+    <string name="descr_image">Post</string>
+    <string name="title_activity_image_pager">Danbooru Image</string>
+
+</resources>
